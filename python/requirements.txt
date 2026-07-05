@@ -1,0 +1,7 @@
+numpy
+dill
+matplotlib
+pandas
+scipy
+PyQt5
+notebook

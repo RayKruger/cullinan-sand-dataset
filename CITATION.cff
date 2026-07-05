@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+message: "If you use this dataset or software, please cite both the dataset (below) and the associated journal article (see references)."
+title: "Geotechnical Test Data Repository: Bevameter plate sinkage, shear tests, and triaxial tests"
+abstract: >-
+  Experimental geotechnical test data on sand — Bevameter plate-sinkage (13
+  tests), Bevameter shear (4 tests), and triaxial compression (16 tests) —
+  distributed in open, archival formats (CSV, NumPy .npz, JSON metadata, and
+  original Python pickles), together with Python analysis/plotting scripts, a
+  PyQt desktop dashboard, and a static React web dashboard. Intended for soil
+  mechanics, terramechanics, constitutive-model calibration, and numerical
+  modelling (FEM/DEM/MPM).
+type: dataset
+version: "1.0.0"
+# TODO: set to the actual release date before deposit (YYYY-MM-DD).
+date-released: "2026-01-01"
+license: CC-BY-4.0
+# TODO: replace with the repository URL once published.
+repository-code: "https://github.com/<OWNER>/<REPO>"
+url: "https://github.com/<OWNER>/<REPO>"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17584462"
+    description: "Zenodo archive DOI (concept/all-versions record)"
+keywords:
+  - terramechanics
+  - Bevameter
+  - plate sinkage
+  - soil mechanics
+  - triaxial test
+  - critical state soil mechanics
+  - NorSand
+  - soil shear test
+  - experimental geotechnical data
+  - sand characterization
+authors:
+  - family-names: Kruger
+    given-names: R.
+    # TODO: add ORCID if available, e.g. orcid: "https://orcid.org/0000-0000-0000-0000"
+  # TODO: confirm the full author list for the dataset (co-authors below are
+  # from the associated publication; keep or remove as appropriate).
+  - family-names: Els
+    given-names: P. S.
+  - family-names: Hamersma
+    given-names: H. A.
+references:
+  - type: article
+    title: >-
+      Experimental investigation of factors affecting the characterisation of
+      soil strength properties using a Bevameter in-situ plate sinkage and shear
+      test apparatus
+    authors:
+      - family-names: Kruger
+        given-names: R.
+      - family-names: Els
+        given-names: P. S.
+      - family-names: Hamersma
+        given-names: H. A.
+    journal: "Journal of Terramechanics"
+    volume: 109
+    start: 45
+    end: 62
+    year: 2023
+    doi: "10.1016/j.jterra.2023.06.002"

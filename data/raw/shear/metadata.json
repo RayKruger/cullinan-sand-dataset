@@ -1,0 +1,38 @@
+[
+  {
+    "test_id": "Method 5_sn93_test1",
+    "csv_file": "csv/01_Method_5_sn93_test1.csv",
+    "n_rows": 15199,
+    "Method": "Method 5",
+    "Normal_Stress": 93,
+    "Density": 1538.0,
+    "Mod_asshto": null
+  },
+  {
+    "test_id": "Method 4_sn93_test2",
+    "csv_file": "csv/02_Method_4_sn93_test2.csv",
+    "n_rows": 111299,
+    "Method": "Method 4",
+    "Normal_Stress": 93,
+    "Density": 1511.0,
+    "Mod_asshto": null
+  },
+  {
+    "test_id": "Method 2_sn93_test3",
+    "csv_file": "csv/03_Method_2_sn93_test3.csv",
+    "n_rows": 114899,
+    "Method": "Method 2",
+    "Normal_Stress": 93,
+    "Density": null,
+    "Mod_asshto": null
+  },
+  {
+    "test_id": "Method 3_sn93_test4",
+    "csv_file": "csv/04_Method_3_sn93_test4.csv",
+    "n_rows": 181999,
+    "Method": "Method 3",
+    "Normal_Stress": 93,
+    "Density": 1390.0,
+    "Mod_asshto": null
+  }
+]

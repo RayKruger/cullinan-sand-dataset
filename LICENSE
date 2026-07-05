@@ -1,0 +1,64 @@
+Attribution 4.0 International (CC BY 4.0)
+
+This work — including the datasets, source code, and documentation in this
+repository — is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to:
+
+  Share  — copy and redistribute the material in any medium or format.
+  Adapt  — remix, transform, and build upon the material for any purpose,
+           even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license
+terms.
+
+Under the following terms:
+
+  Attribution — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your
+  use.
+
+  No additional restrictions — You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license
+  permits.
+
+Notices:
+
+  You do not have to comply with the license for elements of the material in
+  the public domain or where your use is permitted by an applicable exception
+  or limitation.
+
+  No warranties are given. The license may not give you all of the permissions
+  necessary for your intended use. For example, other rights such as publicity,
+  privacy, or moral rights may limit how you use the material.
+
+-------------------------------------------------------------------------------
+How to cite / attribute
+-------------------------------------------------------------------------------
+When reusing this work, please cite the associated dataset and publication as
+described in CITATION.cff and README.md, e.g.:
+
+  Kruger, R., Els, P. S., & Hamersma, H. A. (2023). Experimental investigation
+  of factors affecting the characterisation of soil strength properties using a
+  Bevameter in-situ plate sinkage and shear test apparatus. Journal of
+  Terramechanics, 109, 45-62. https://doi.org/10.1016/j.jterra.2023.06.002
+
+  Kruger, R. (2026). Geotechnical Test Data Repository: Bevameter plate
+  sinkage, shear tests, and triaxial tests [Data set]. Zenodo.
+  DOI: 10.5281/zenodo.17584462
+
+-------------------------------------------------------------------------------
+Full legal code
+-------------------------------------------------------------------------------
+The complete, legally binding text of the CC BY 4.0 license is available at:
+
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+and a human-readable summary at:
+
+  https://creativecommons.org/licenses/by/4.0/
+
+By using this repository you agree to the terms of the full legal code linked
+above, which is incorporated here by reference.

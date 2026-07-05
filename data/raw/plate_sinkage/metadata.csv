@@ -1,0 +1,14 @@
+test_id,csv_file,n_rows,name,original_name,method,dry_density,void_ratio,mod_procter
+method_5_test_1,csv/01_method_5_test_1.csv,123252,method_5_test_1,1_Data_ps_20Aug,5,1538,0.908,77.4
+method_Method 1_test_1,csv/02_method_Method_1_test_1.csv,29590,method_Method 1_test_1,1_Data_ps_24Aug,Method 1,,,
+method_Method 1_test_2,csv/03_method_Method_1_test_2.csv,31659,method_Method 1_test_2,2_Data_ps_24Aug,Method 1,,,
+method_Method 1_test_3,csv/04_method_Method_1_test_3.csv,37227,method_Method 1_test_3,3_Data_ps_24Aug,Method 1,,,
+method_Method 1_test_4,csv/05_method_Method_1_test_4.csv,31017,method_Method 1_test_4,4_Data_ps_24Aug,Method 1,,,
+method_Method 1_test_5,csv/06_method_Method_1_test_5.csv,31074,method_Method 1_test_5,5_Data_ps_24Aug,Method 1,,,
+method_Method 1_test_6,csv/07_method_Method_1_test_6.csv,31215,method_Method 1_test_6,6_Data_ps_24Aug,Method 1,,,
+method_Method 2_test_1,csv/08_method_Method_2_test_1.csv,30982,method_Method 2_test_1,1_Data_ps_27Aug,Method 2,,,
+method_Method 2_test_2,csv/09_method_Method_2_test_2.csv,31199,method_Method 2_test_2,2_Data_ps_27Aug,Method 2,,,
+method_Method 2_test_3,csv/10_method_Method_2_test_3.csv,31679,method_Method 2_test_3,3_Data_ps_27Aug,Method 2,,,
+method_Method 2_test_4,csv/11_method_Method_2_test_4.csv,28990,method_Method 2_test_4,4_Data_ps_27Aug,Method 2,,,
+method_Method 4_test_1,csv/12_method_Method_4_test_1.csv,55971,method_Method 4_test_1,2_Data_ps_27SEPT,Method 4,1511,,
+method_Method 3_test_1,csv/13_method_Method_3_test_1.csv,50228,method_Method 3_test_1,3_Data_ps_27SEPT,Method 3,1390,,

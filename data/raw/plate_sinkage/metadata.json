@@ -1,0 +1,145 @@
+[
+  {
+    "test_id": "method_5_test_1",
+    "csv_file": "csv/01_method_5_test_1.csv",
+    "n_rows": 123252,
+    "name": "method_5_test_1",
+    "original_name": "1_Data_ps_20Aug",
+    "method": 5,
+    "dry_density": 1538,
+    "void_ratio": 0.908,
+    "mod_procter": 77.4
+  },
+  {
+    "test_id": "method_Method 1_test_1",
+    "csv_file": "csv/02_method_Method_1_test_1.csv",
+    "n_rows": 29590,
+    "name": "method_Method 1_test_1",
+    "original_name": "1_Data_ps_24Aug",
+    "method": "Method 1",
+    "dry_density": null,
+    "void_ratio": null,
+    "mod_procter": null
+  },
+  {
+    "test_id": "method_Method 1_test_2",
+    "csv_file": "csv/03_method_Method_1_test_2.csv",
+    "n_rows": 31659,
+    "name": "method_Method 1_test_2",
+    "original_name": "2_Data_ps_24Aug",
+    "method": "Method 1",
+    "dry_density": null,
+    "void_ratio": null,
+    "mod_procter": null
+  },
+  {
+    "test_id": "method_Method 1_test_3",
+    "csv_file": "csv/04_method_Method_1_test_3.csv",
+    "n_rows": 37227,
+    "name": "method_Method 1_test_3",
+    "original_name": "3_Data_ps_24Aug",
+    "method": "Method 1",
+    "dry_density": null,
+    "void_ratio": null,
+    "mod_procter": null
+  },
+  {
+    "test_id": "method_Method 1_test_4",
+    "csv_file": "csv/05_method_Method_1_test_4.csv",
+    "n_rows": 31017,
+    "name": "method_Method 1_test_4",
+    "original_name": "4_Data_ps_24Aug",
+    "method": "Method 1",
+    "dry_density": null,
+    "void_ratio": null,
+    "mod_procter": null
+  },
+  {
+    "test_id": "method_Method 1_test_5",
+    "csv_file": "csv/06_method_Method_1_test_5.csv",
+    "n_rows": 31074,
+    "name": "method_Method 1_test_5",
+    "original_name": "5_Data_ps_24Aug",
+    "method": "Method 1",
+    "dry_density": null,
+    "void_ratio": null,
+    "mod_procter": null
+  },
+  {
+    "test_id": "method_Method 1_test_6",
+    "csv_file": "csv/07_method_Method_1_test_6.csv",
+    "n_rows": 31215,
+    "name": "method_Method 1_test_6",
+    "original_name": "6_Data_ps_24Aug",
+    "method": "Method 1",
+    "dry_density": null,
+    "void_ratio": null,
+    "mod_procter": null
+  },
+  {
+    "test_id": "method_Method 2_test_1",
+    "csv_file": "csv/08_method_Method_2_test_1.csv",
+    "n_rows": 30982,
+    "name": "method_Method 2_test_1",
+    "original_name": "1_Data_ps_27Aug",
+    "method": "Method 2",
+    "dry_density": null,
+    "void_ratio": null,
+    "mod_procter": null
+  },
+  {
+    "test_id": "method_Method 2_test_2",
+    "csv_file": "csv/09_method_Method_2_test_2.csv",
+    "n_rows": 31199,
+    "name": "method_Method 2_test_2",
+    "original_name": "2_Data_ps_27Aug",
+    "method": "Method 2",
+    "dry_density": null,
+    "void_ratio": null,
+    "mod_procter": null
+  },
+  {
+    "test_id": "method_Method 2_test_3",
+    "csv_file": "csv/10_method_Method_2_test_3.csv",
+    "n_rows": 31679,
+    "name": "method_Method 2_test_3",
+    "original_name": "3_Data_ps_27Aug",
+    "method": "Method 2",
+    "dry_density": null,
+    "void_ratio": null,
+    "mod_procter": null
+  },
+  {
+    "test_id": "method_Method 2_test_4",
+    "csv_file": "csv/11_method_Method_2_test_4.csv",
+    "n_rows": 28990,
+    "name": "method_Method 2_test_4",
+    "original_name": "4_Data_ps_27Aug",
+    "method": "Method 2",
+    "dry_density": null,
+    "void_ratio": null,
+    "mod_procter": null
+  },
+  {
+    "test_id": "method_Method 4_test_1",
+    "csv_file": "csv/12_method_Method_4_test_1.csv",
+    "n_rows": 55971,
+    "name": "method_Method 4_test_1",
+    "original_name": "2_Data_ps_27SEPT",
+    "method": "Method 4",
+    "dry_density": 1511,
+    "void_ratio": null,
+    "mod_procter": null
+  },
+  {
+    "test_id": "method_Method 3_test_1",
+    "csv_file": "csv/13_method_Method_3_test_1.csv",
+    "n_rows": 50228,
+    "name": "method_Method 3_test_1",
+    "original_name": "3_Data_ps_27SEPT",
+    "method": "Method 3",
+    "dry_density": 1390,
+    "void_ratio": null,
+    "mod_procter": null
+  }
+]

@@ -1,0 +1,50 @@
+# Publish the pre-built dashboard to GitHub Pages.
+#
+# The committed web_dashboard/dist/ is a static, self-contained build (relative
+# base path), so this workflow just uploads that folder — no Node/npm build on
+# the runner. The full-resolution data is intentionally NOT in the deploy; the
+# in-page download buttons fall back to the Zenodo archive when it is absent.
+#
+# To enable: repo Settings → Pages → Build and deployment → Source = GitHub Actions
+# (this repo also enables it automatically via the API on first setup).
+
+name: Deploy dashboard to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "web_dashboard/dist/**"
+      - ".github/workflows/deploy-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; don't cancel an in-progress run.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard (dist/) as the Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web_dashboard/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

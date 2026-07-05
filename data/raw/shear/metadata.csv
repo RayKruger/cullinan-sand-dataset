@@ -1,0 +1,5 @@
+test_id,csv_file,n_rows,Method,Normal_Stress,Density,Mod_asshto
+Method 5_sn93_test1,csv/01_Method_5_sn93_test1.csv,15199,Method 5,93,1538.0,
+Method 4_sn93_test2,csv/02_Method_4_sn93_test2.csv,111299,Method 4,93,1511.0,
+Method 2_sn93_test3,csv/03_Method_2_sn93_test3.csv,114899,Method 2,93,,
+Method 3_sn93_test4,csv/04_Method_3_sn93_test4.csv,181999,Method 3,93,1390.0,

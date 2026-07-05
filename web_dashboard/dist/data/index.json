@@ -1,0 +1,23 @@
+{
+  "datasets": [
+    {
+      "type": "plate_sinkage",
+      "title": "Plate Sinkage",
+      "file": "plate_sinkage.json",
+      "n_tests": 13
+    },
+    {
+      "type": "shear",
+      "title": "Bevameter Shear",
+      "file": "shear.json",
+      "n_tests": 4
+    },
+    {
+      "type": "triaxial",
+      "title": "Triaxial Compression",
+      "file": "triaxial.json",
+      "n_tests": 16
+    }
+  ],
+  "max_points": 2000
+}

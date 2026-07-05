@@ -1,0 +1,98 @@
+[
+  {
+    "test_id": "TX2 CU200",
+    "csv_file": "csv/01_TX2_CU200.csv",
+    "n_rows": 6794,
+    "name": "TX2 CU200"
+  },
+  {
+    "test_id": "TX3 CU400",
+    "csv_file": "csv/02_TX3_CU400.csv",
+    "n_rows": 6698,
+    "name": "TX3 CU400"
+  },
+  {
+    "test_id": "TX4 CU100",
+    "csv_file": "csv/03_TX4_CU100.csv",
+    "n_rows": 7610,
+    "name": "TX4 CU100"
+  },
+  {
+    "test_id": "TX5 CU50",
+    "csv_file": "csv/04_TX5_CU50.csv",
+    "n_rows": 6069,
+    "name": "TX5 CU50"
+  },
+  {
+    "test_id": "TX6 CU100",
+    "csv_file": "csv/05_TX6_CU100.csv",
+    "n_rows": 5805,
+    "name": "TX6 CU100"
+  },
+  {
+    "test_id": "TX7 CU100",
+    "csv_file": "csv/06_TX7_CU100.csv",
+    "n_rows": 7166,
+    "name": "TX7 CU100"
+  },
+  {
+    "test_id": "TX8 CU200",
+    "csv_file": "csv/07_TX8_CU200.csv",
+    "n_rows": 5415,
+    "name": "TX8 CU200"
+  },
+  {
+    "test_id": "TX9 CU400",
+    "csv_file": "csv/08_TX9_CU400.csv",
+    "n_rows": 7584,
+    "name": "TX9 CU400"
+  },
+  {
+    "test_id": "TX10 CU600",
+    "csv_file": "csv/09_TX10_CU600.csv",
+    "n_rows": 7817,
+    "name": "TX10 CU600"
+  },
+  {
+    "test_id": "TX11 CU800",
+    "csv_file": "csv/10_TX11_CU800.csv",
+    "n_rows": 7201,
+    "name": "TX11 CU800"
+  },
+  {
+    "test_id": "TX13 CD400",
+    "csv_file": "csv/11_TX13_CD400.csv",
+    "n_rows": 6950,
+    "name": "TX13 CD400"
+  },
+  {
+    "test_id": "TX14 CD600",
+    "csv_file": "csv/12_TX14_CD600.csv",
+    "n_rows": 10951,
+    "name": "TX14 CD600"
+  },
+  {
+    "test_id": "TX15 CD50",
+    "csv_file": "csv/13_TX15_CD50.csv",
+    "n_rows": 8244,
+    "name": "TX15 CD50"
+  },
+  {
+    "test_id": "TX16 CD50",
+    "csv_file": "csv/14_TX16_CD50.csv",
+    "n_rows": 7802,
+    "name": "TX16 CD50"
+  },
+  {
+    "test_id": "TX17 CD100",
+    "csv_file": "csv/15_TX17_CD100.csv",
+    "n_rows": 6901,
+    "name": "TX17 CD100"
+  },
+  {
+    "test_id": "TX18 CD150",
+    "csv_file": "csv/16_TX18_CD150.csv",
+    "n_rows": 7966,
+    "name": "TX18 CD150"
+  }
+]
