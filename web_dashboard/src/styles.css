@@ -104,7 +104,9 @@ a:hover {
   position: fixed;
   top: 0;
   bottom: 0;
-  width: 390px;
+  /* Fill only the empty gutter beside the 1460px content column so the art
+     never overlaps content on wide screens; capped so it stays a subtle motif. */
+  width: clamp(0px, calc((100vw - 1500px) / 2), 320px);
   z-index: 0;
   color: var(--color-accent);
   pointer-events: none;
@@ -154,8 +156,8 @@ a:hover {
 .side-art--right .side-art__label {
   right: 20px;
 }
-/* Show wherever there is margin room beside the content column */
-@media (min-width: 1660px) {
+/* Show only once there is real gutter room beside the content column */
+@media (min-width: 1720px) {
   .side-art {
     display: block;
   }
